@@ -1,0 +1,43 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.1.32328.378
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "NotinoHomework.Api", "NotinoHomework.Api\NotinoHomework.Api.csproj", "{B1CC5880-C3CC-4C8D-BAB9-4840EE4F6D46}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "NotinoHomework.Application", "NotinoHomework.Application\NotinoHomework.Application.csproj", "{5A51220E-BE52-4CDA-A9F8-44C0D3270EB2}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "NotinoHomework.Infrastructure", "NotinoHomework.Infrastructure\NotinoHomework.Infrastructure.csproj", "{EC3BD1EF-E855-4391-A562-F2B7B00D14EF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NotinoHomework.Tests", "NotinoHomework.Tests\NotinoHomework.Tests.csproj", "{5BF9209D-D1BE-4C88-AAB4-8CE6E2251347}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B1CC5880-C3CC-4C8D-BAB9-4840EE4F6D46}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B1CC5880-C3CC-4C8D-BAB9-4840EE4F6D46}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B1CC5880-C3CC-4C8D-BAB9-4840EE4F6D46}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B1CC5880-C3CC-4C8D-BAB9-4840EE4F6D46}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5A51220E-BE52-4CDA-A9F8-44C0D3270EB2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5A51220E-BE52-4CDA-A9F8-44C0D3270EB2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5A51220E-BE52-4CDA-A9F8-44C0D3270EB2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5A51220E-BE52-4CDA-A9F8-44C0D3270EB2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EC3BD1EF-E855-4391-A562-F2B7B00D14EF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EC3BD1EF-E855-4391-A562-F2B7B00D14EF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EC3BD1EF-E855-4391-A562-F2B7B00D14EF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EC3BD1EF-E855-4391-A562-F2B7B00D14EF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5BF9209D-D1BE-4C88-AAB4-8CE6E2251347}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5BF9209D-D1BE-4C88-AAB4-8CE6E2251347}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5BF9209D-D1BE-4C88-AAB4-8CE6E2251347}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5BF9209D-D1BE-4C88-AAB4-8CE6E2251347}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2FE40785-4AE5-43E6-BEC4-7492D5C7B0F6}
+	EndGlobalSection
+EndGlobal
